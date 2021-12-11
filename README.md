@@ -1,2 +1,3 @@
 # Market-Basket-Analysis--Grocery-Store-
 A Grocery Store shared the transactional data .The project involves conducting a thorough analysis of Point of Sale (POS) Data for providing recommendations through which a grocery store can increase its revenue by popular combo offers &amp; discounts for customers.
+A Grocery Store shared the transactional data with you. Your job is to identify the most popular combos that can be suggested to the Grocery Store chain after a thorough analysis of the most commonly occurring sets of items in the customer orders. The Store doesn’t have any combo offers. Market Basket Analysis to suggest the best combo offers to business.
